@@ -11,17 +11,23 @@
       <description><![CDATA[
 <h1 id="changelog-for-hackboard-v0.0.2">Changelog for Hackboard
 v0.0.2</h1>
-<p>Test Release</p>
+<h2 id="whats-new">What’s New</h2>
+<ul>
+<li>Describe new features, improvements, and bug fixes here.</li>
+</ul>
+<h2 id="notes">Notes</h2>
+<ul>
+<li>Add any additional notes for this release.</li>
+</ul>
       ]]></description>
-      <pubDate>Thu, 29 May 2025 10:48:53 +0000</pubDate>
+      <pubDate>Thu, 29 May 2025 18:06:37 +0000</pubDate>
       <sparkle:version>0.0.2</sparkle:version>
       <sparkle:shortVersionString>0.0.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
       <enclosure
         url="https://github.com/hackboard-app/hackboard-releases/releases/download/v0.0.2/hackboard-0.0.2.zip"
-        length="19332177"
         type="application/octet-stream"
-        sparkle:edSignature="sparkle:edSignature="kl6KzeelrpuxEk3LEzQx/q89E9llLAogEzIB7XACYOigstR3NNROFUluRB2IhqW65tkiYlujNdlDatyq3Jb4Cg==" length="19332177"" />
+        sparkle:edSignature="r4eZ5LXOWz22wbKaVxdLLZn1z5k5SArqjpZ/Q3Yu9T7Ms7umr8d3xD8/AEWLeFdXqij5f4uGook8DymnGBd3Dw==" length="19332158" />
     </item>
     
   </channel>
