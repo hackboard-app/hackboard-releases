@@ -7,10 +7,10 @@
     <language>en</language>
     
     <item>
-      <title>Version 0.0.2</title>
+      <title>Version 0.0.3</title>
       <description><![CDATA[
-<h1 id="changelog-for-hackboard-v0.0.2">Changelog for Hackboard
-v0.0.2</h1>
+<h1 id="changelog-for-hackboard-v0.0.3">Changelog for Hackboard
+v0.0.3</h1>
 <h2 id="whats-new">What’s New</h2>
 <ul>
 <li>Describe new features, improvements, and bug fixes here.</li>
@@ -20,14 +20,14 @@ v0.0.2</h1>
 <li>Add any additional notes for this release.</li>
 </ul>
       ]]></description>
-      <pubDate>Thu, 29 May 2025 18:06:37 +0000</pubDate>
-      <sparkle:version>0.0.2</sparkle:version>
-      <sparkle:shortVersionString>0.0.2</sparkle:shortVersionString>
+      <pubDate>Thu, 29 May 2025 18:13:30 +0000</pubDate>
+      <sparkle:version>0.0.3</sparkle:version>
+      <sparkle:shortVersionString>0.0.3</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
       <enclosure
-        url="https://github.com/hackboard-app/hackboard-releases/releases/download/v0.0.2/hackboard-0.0.2.zip"
+        url="https://github.com/hackboard-app/hackboard-releases/releases/download/v0.0.3/hackboard-0.0.3.zip"
         type="application/octet-stream"
-        sparkle:edSignature="r4eZ5LXOWz22wbKaVxdLLZn1z5k5SArqjpZ/Q3Yu9T7Ms7umr8d3xD8/AEWLeFdXqij5f4uGook8DymnGBd3Dw==" length="19332158" />
+        sparkle:edSignature="sI+OeMdDvMMSbdubdPzgzycYQYb671p2/Lo+yB1prXd4faipPw0VmzsmS7aXfhgD5Pbibq/IY8lnTGNZC7KTBQ==" length="19332167" />
     </item>
     
   </channel>
