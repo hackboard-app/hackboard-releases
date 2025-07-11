@@ -7,7 +7,7 @@
     <language>en</language>
     
     <item>
-      <title>Version 0.0.1</title>
+      <title>Version 0.0.2</title>
       <description><![CDATA[
 <h1 id="changelog-for-hackboard-v0.0.1">Changelog for Hackboard
 v0.0.1</h1>
@@ -20,14 +20,14 @@ recoreded like normal key combination under ‘From’.</li>
 process.</li>
 </ul>
       ]]></description>
-      <pubDate>Fri, 11 Jul 2025 16:48:58 +0000</pubDate>
-      <sparkle:version>0.0.1</sparkle:version>
-      <sparkle:shortVersionString>0.0.1</sparkle:shortVersionString>
+      <pubDate>Fri, 11 Jul 2025 19:16:20 +0000</pubDate>
+      <sparkle:version>0.0.2</sparkle:version>
+      <sparkle:shortVersionString>0.0.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
       <enclosure
-        url="https://github.com/hackboard-app/hackboard-releases/releases/download/v0.0.1/hackboard-0.0.1.zip"
+        url="https://github.com/hackboard-app/hackboard-releases/releases/download/v0.0.2/hackboard-0.0.2.zip"
         type="application/octet-stream"
-        sparkle:edSignature="T8ZHotmNJhOIHKtBFgSo3M3U6pC3VoHryBClJz0e1jmfW3epJ10aLCzlPLiEZPYmg/nkbUaMQZWBhXQzXQQ2AQ==" length="19363850" />
+        sparkle:edSignature="rxFR/ulDbG0D2j5VPs0qHADdRzOWyCL/UhSvlyQD9zOg8b1yX98MoGVhh9c5ZiUX2UFqXUcW5rKfObcuPtTpAw==" length="19364534" />
     </item>
     
   </channel>
