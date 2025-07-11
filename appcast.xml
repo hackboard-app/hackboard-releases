@@ -7,27 +7,27 @@
     <language>en</language>
     
     <item>
-      <title>Version 0.0.3</title>
+      <title>Version 0.0.1</title>
       <description><![CDATA[
-<h1 id="changelog-for-hackboard-v0.0.3">Changelog for Hackboard
-v0.0.3</h1>
+<h1 id="changelog-for-hackboard-v0.0.1">Changelog for Hackboard
+v0.0.1</h1>
 <h2 id="whats-new">What’s New</h2>
 <ul>
-<li>Describe new features, improvements, and bug fixes here.</li>
-</ul>
-<h2 id="notes">Notes</h2>
-<ul>
-<li>Add any additional notes for this release.</li>
+<li>Super combos (key combinations with multiple letters) can now be
+recoreded like normal key combination under ‘From’.</li>
+<li>Both super combos (under ‘From’) and normal key combinations (under
+‘To’) can be recorded without existing keymaps affecting the recording
+process.</li>
 </ul>
       ]]></description>
-      <pubDate>Thu, 29 May 2025 18:13:30 +0000</pubDate>
-      <sparkle:version>0.0.3</sparkle:version>
-      <sparkle:shortVersionString>0.0.3</sparkle:shortVersionString>
+      <pubDate>Fri, 11 Jul 2025 16:48:58 +0000</pubDate>
+      <sparkle:version>0.0.1</sparkle:version>
+      <sparkle:shortVersionString>0.0.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
       <enclosure
-        url="https://github.com/hackboard-app/hackboard-releases/releases/download/v0.0.3/hackboard-0.0.3.zip"
+        url="https://github.com/hackboard-app/hackboard-releases/releases/download/v0.0.1/hackboard-0.0.1.zip"
         type="application/octet-stream"
-        sparkle:edSignature="sI+OeMdDvMMSbdubdPzgzycYQYb671p2/Lo+yB1prXd4faipPw0VmzsmS7aXfhgD5Pbibq/IY8lnTGNZC7KTBQ==" length="19332167" />
+        sparkle:edSignature="T8ZHotmNJhOIHKtBFgSo3M3U6pC3VoHryBClJz0e1jmfW3epJ10aLCzlPLiEZPYmg/nkbUaMQZWBhXQzXQQ2AQ==" length="19363850" />
     </item>
     
   </channel>
